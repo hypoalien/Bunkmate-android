@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <!-- Drop Shadow Stack -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:thickness="25dp"
+            android:innerRadius="45dp"
+            android:useLevel="true">
+
+
+            <solid android:color="#002CDA9D" />
+
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:thickness="23dp"
+            android:innerRadius="46dp"
+            android:useLevel="true">
+
+
+            <solid android:color="#0F2CDA9D" />
+
+
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:thickness="21dp"
+            android:innerRadius="47dp"
+            android:useLevel="true">
+
+            <solid android:color="#212BD99C" />
+
+
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:thickness="19dp"
+            android:innerRadius="48dp"
+            android:useLevel="true">
+
+            <solid android:color="#302CDA9D" />
+
+
+        </shape>
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:thickness="17dp"
+            android:innerRadius="49dp"
+            android:useLevel="true" >
+
+
+            <solid android:color="#4F2CDA9D" />
+
+
+        </shape>
+    </item>
+
+
+
+    <!-- Background -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="ring"
+            android:innerRadius="50dp"
+            android:thickness="15dp"
+           >
+            <solid android:color="#FF2CDA9D" />
+
+        </shape>
+    </item>
+
+</layer-list>
